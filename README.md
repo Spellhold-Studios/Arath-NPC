@@ -11,7 +11,6 @@
 
 
 **Author:** K'aeloree  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/Arath">Spellhold Studios</a><br /><br />
 **Mod Forum:** <a href="http://www.shsforums.net/forum/624-arath/">Arath NPC</a><br /><br />
 
 
